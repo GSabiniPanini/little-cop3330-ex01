@@ -1,9 +1,10 @@
 package Base;
-
-import java.util.Scanner;
-
 /*
-
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Glenroy Little
+ */
+import java.util.Scanner;
+/*
 Exercise 1 - Saying Hello
 Create a program that prompts for your name and prints a greeting using your name.
 
@@ -18,7 +19,6 @@ Challenges
 Write a new version of the program without using any variables.
 Write a version of the program that displays different greetings for different people.
 Write a version of the program that displays the greeting in a GUI window.
-
  */
 public class App
 {
