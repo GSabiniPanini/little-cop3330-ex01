@@ -33,7 +33,7 @@ public class App
         myApp.greeting(output);
     }
 
-    private String concatenation(String name) {
+    public String concatenation(String name) {
         return "Hello, " + name + ", nice to meet you!";
     }
 
